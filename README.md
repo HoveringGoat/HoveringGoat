@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 ![HoveringGoats's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoveringgoat&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringgoat&count_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringgoat)
