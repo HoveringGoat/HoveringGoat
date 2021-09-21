@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![HoveringGoats's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringgoat)
 
-![HoveringGoats's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hoveringgoat)
+![HoveringGoats's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HoveringGoat)
