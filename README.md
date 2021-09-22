@@ -12,8 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![HoveringGoats's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoveringgoat&count_private=true)
+![HoveringGoats's GitHub stats]()
 
-![HoveringGoats's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css)
+![HoveringGoats's Top Langs]()
 
 ![HoveringGoats's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HoveringGoat)
+<div class="row">
+  <a href="https://hoveringgoat.github.io/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoveringgoat&count_private=true" />
+  </a>
+  <a>
+    <img align="top" width = "460" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoveringGoat" />
+  </a>
+  <a>
+    <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css" />
+  </a>
+</div>
