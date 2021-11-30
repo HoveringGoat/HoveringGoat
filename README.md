@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoveringgoat&count_private=true" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoveringgoat&count_private=true" />
+-->
 <img align="top" width = "460" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoveringGoat" />
 
 <img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css" />
