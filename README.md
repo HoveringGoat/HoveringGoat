@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api?username=hoveringgoat&count_private=true" />
 
-<img align="Left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css" />
+<img align="Left" src="https://github-readme-stats-three-mu-63.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css" />
 
