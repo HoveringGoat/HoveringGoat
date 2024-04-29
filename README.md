@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <img align="Left" src="https://github-readme-stats-three-mu-63.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css" />
 
-![snek gif](https://github.com/hoveringgoat/hoveringgoat/blob/output/github-snek.svg)
+![snek gif](https://github.com/hoveringgoat/hoveringgoat/blob/output/github-snek-dark.svg)
 
