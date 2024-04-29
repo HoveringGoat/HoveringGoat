@@ -28,7 +28,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snek.svg
-            dist/github-snek-dark.svg?palette=github-dark
+            dist/github-snek-dark.svg?palette=github-dark?color_snake=#38a8d5
           
           
       # push the content of <build_dir> to a branch
