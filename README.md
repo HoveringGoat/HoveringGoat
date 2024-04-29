@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api?username=hoveringgoat&count_private=true" />
 
 <img align="Left" src="https://github-readme-stats-three-mu-63.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snek-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snek.svg" />
+  <img alt="github-snek" src="github-snek.svg" />
+</picture>
 
