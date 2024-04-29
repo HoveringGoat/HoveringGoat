@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 <img align="top" width = "460" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoveringGoat" />
 -->
 
@@ -19,9 +20,8 @@ Here are some ideas to get you started:
 [![Website Badge](https://img.shields.io/badge/HoveringGoat.io-3b5998?style=flat-square&logo=icloud&logoColor=white)](https://hoveringgoat.github.io/)
 ![views](https://visitor-badge.laobi.icu/badge?page_id=hoveringgoat.github.io)
 
-<img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api?username=hoveringgoat&count_private=true" />
-
-<img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css" />
+<img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api?username=hoveringgoat&count_private=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css&theme=tokyonight" />
 
 ## 🐍🐍🐍  
 ![snek gif](https://github.com/hoveringgoat/hoveringgoat/blob/output/github-snek-dark.svg)
