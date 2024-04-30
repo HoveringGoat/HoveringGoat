@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 <img align="top" width = "460" src="https://github-readme-stats.vercel.app/api/wakatime?username=HoveringGoat" />
 -->
-
+<link type="text/css" rel="stylesheet" href="stylesheets/style.css" />
 <h2 align="center" color="blue">Hello, I'm Spencer 👨‍💻</h2>
 
 [![Website Badge](https://img.shields.io/badge/HoveringGoat.io-3b5998?style=flat-square&logo=icloud&logoColor=white)](https://hoveringgoat.github.io/)
 ![views](https://visitor-badge.laobi.icu/badge?page_id=hoveringgoat.github.io)
+<p align="Left">
+<img align="top" src="https://github-readme-stats-three-mu-63.vercel.app/api?username=hoveringgoat&count_private=true&theme=tokyonight" />
+  &nbsp;   &nbsp;  &nbsp;   &nbsp;  &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css&theme=tokyonight" /></p>
 
-<img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api?username=hoveringgoat&count_private=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css&theme=tokyonight" />
+## LeetCode:
+<p><img align="center" src="https://leetcode-stats-six.vercel.app/?username=spencer12&theme=dark" /></p>
 
 ## 🐍🐍🐍  
 ![snek gif](https://github.com/hoveringgoat/hoveringgoat/blob/output/github-snek-dark.svg)
