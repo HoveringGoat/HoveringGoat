@@ -25,7 +25,6 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 <img align="center" src="https://github-readme-stats-three-mu-63.vercel.app/api/top-langs/?username=hoveringgoat&exclude_repo=FlabbyBird&hide=css&theme=tokyonight" /></p>
 
 ## LeetCode:
-![Leetcode Stats]()
 <p><img align="center" src="https://leetcard.jacoblin.cool/spencer12?theme=nord&ext=activity" /></p>
 
 ## 🐍🐍🐍  
