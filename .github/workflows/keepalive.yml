@@ -29,7 +29,7 @@ jobs:
           # git add .github/workflows/Update.yml
 
           # Commit the changes
-          git commit -m "Keep Alive"
+          git commit -m "Keep Alive" --allow-empty
 
           # Set the repository remote using the PAT token
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git
