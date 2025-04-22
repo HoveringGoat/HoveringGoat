@@ -13,10 +13,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN }} 
-      - name: view files
-        run: |
-          cd .github/workflows
-          ls -la
       - name: Commit and push workflow changes
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
@@ -24,9 +20,6 @@ jobs:
           # Set Git identity using GitHub Actions environment variables
           git config --global user.name "${{ secrets.GIT_USERNAME }}"
           git config --global user.email "${{ secrets.GIT_EMAIL }}"
-
-          # Stage all changes (customize this if needed)
-          # git add .github/workflows/Update.yml
 
           # Commit the changes
           git commit -m "Keep Alive" --allow-empty
